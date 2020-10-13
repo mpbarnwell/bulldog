@@ -65,7 +65,7 @@
   </ciManagement>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <version.junit>4.10</version.junit>
+    <version.junit>4.13.1</version.junit>
     <version.slf4j>1.7.5</version.slf4j>
     <version.assembly.plugin>2.5.3</version.assembly.plugin>
     <version.jar.plugin>2.5</version.jar.plugin>
